@@ -1,2 +1,4 @@
-public class CheckPerson {
+public interface CheckPerson {
+    boolean test(Person p);
+
 }
